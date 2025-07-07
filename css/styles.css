@@ -1,8 +1,7 @@
-       <style>
-            @font-face {
-                font-family: 'iconfont';
-                src: url('iconfont.ttf') format('truetype');
-            }
+@font-face {
+    font-family: 'iconfont';
+    src: url('../assets/iconfont.ttf') format('truetype');
+}
 
             * {
                 user-select: none;
@@ -178,4 +177,3 @@
 			}
 			
 
-        </style>
